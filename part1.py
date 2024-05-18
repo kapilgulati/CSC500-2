@@ -34,7 +34,7 @@ def get_input(message_for_input):
 print("Given the two numbers, I will add and subtract number 1 and number 2")
 num1 = get_input("Enter first whole number: ")
 num2 = get_input("Enter second whole number: ")
-print("Total after adding number 1 and number 2:", num1 + num2)
-print("Total after subtracting number 2 from number 1:", num1 - num2)
+print(f"Total after adding {num1} and {num2}:", num1 + num2)
+print(f"Total after subtracting {num2} from {num1}:", num1 - num2)
 
 

@@ -1,6 +1,6 @@
 
 # Pseudocode 
-Ask the user to input two numbers (num1 and num2) and perform addition (num1+num2) and subtraction (num1-num2) operation using the two numbers.
+Ask the user to input two whole numbers (num1 and num2) and perform addition (num1+num2) and subtraction (num1-num2) operation using the two numbers.
 
 ######################################################
 ```
@@ -25,4 +25,5 @@ COMPUTE sum as number1 + number2
 PRINT sum message
 COMPUTE subtract as number1 - number2
 PRINT subtract message
+
 ```
